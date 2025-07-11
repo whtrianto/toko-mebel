@@ -6,7 +6,7 @@ Project ini adalah aplikasi web toko mebel berbasis PHP yang dapat digunakan unt
 ## Tampilan Awal
 ![Screenshot_1](https://github.com/whtrianto/toko-mebel/blob/main/images/screenshot1.png)
 
-![Screenshot_2](https://github.com/whtrianto/klasifikasi-buah-pisang/blob/main/static/images/screenshot2.png?raw=true)
+![Screenshot_2](https://github.com/whtrianto/toko-mebel/blob/main/images/screenshot2.png)
 
 ## Fitur Utama
 - Manajemen produk (baju, kasur, lemari, meja, rak TV, sofa, sprei, dll)
