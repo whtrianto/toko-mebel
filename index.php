@@ -662,7 +662,7 @@
       </div>
       <p class="col-md-6 mb-4 text-white">
         Created by <i class="fa fa-shield-heart text-danger"></i>
-        <a href="https://portofolio.wahyutri1771.repl.co/" class="text-white">Wahyu Trianto</a>
+        <a href="https://portofolio-wahyu-trianto.vercel.app/" class="text-white">Wahyu Trianto</a>
       </p>
     </div>
   </div>

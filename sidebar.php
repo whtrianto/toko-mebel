@@ -156,8 +156,8 @@ $logo = $DataLogin['logo'];
         <!-- sidebar-menu  -->
       </div>
       <div class="sidebar-footer">
-        Wahyu Trianto - <a target="_blank" rel="noopener noreferrer" href="https://ump.ac.id">
-          UMP</a>
+        <a href="https://portofolio-wahyu-trianto.vercel.app/" class="text-white">Wahyu Trianto</a> -
+        <a target="_blank" rel="noopener noreferrer" href="https://ump.ac.id" class="text-white">UMP</a>
       </div>
     </nav>
     <!-- sidebar-wrapper  -->
